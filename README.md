@@ -65,3 +65,7 @@ Relatório 2: Análise de Desempenho Individual (Visão do Professor/Coordenador
   -> Tabela Detalhada: Para uma materia, mostra a media de cada pergunta (ex: Didatica: 4.5/5, Material de Aula: 3.8/5).
   
   -> Comentários: Exibe uma lista com todos os comentarios anonimos feitos pelos alunos para aquela turma.
+
+  README Entrega 2
+
+As tecnologias utilizadas foram o Python, Flask e PostgreSQL. O objetivo é permitir que os alunos avaliem os eeua professores por meio de avalicoes e questoes que podem ser cadastradas tanto para resposta em texto ou nota. Implementamos o modulo do aluno, modulo do coordenador. A implementacao do professor sera entregue na entrega 3
